@@ -4,4 +4,4 @@ Hi 👋 - I'm Bayu and I work for [Aviatrix](https://aviatrix.com/) as a Senior 
 - 🌱 I’m currently learning AWS Advanced Networking Specialty
 - 👯 I’m looking to collaborate on Terraform
 - 💬 Ask me about anything on Cloud Networking and Aviatrix
-- 📫 How to reach me: https://www.linkedin.com/in/bayupw/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bayupw/) | [Twitter](https://twitter.com/bayupw)
