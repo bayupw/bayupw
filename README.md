@@ -5,6 +5,7 @@ Hi 👋 - I'm Bayu and I work at [Aviatrix](https://aviatrix.com/) as a Senior T
 - 💬 Ask me about anything on Cloud Networking and Aviatrix
 
 ### Connect with me:
+[![GitHub Badge](https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000)
 [![Linkedin Badge](https://img.shields.io/badge/-Bayu%20Wibowo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://nz.linkedin.com/in/bayupw/>)](<https://nz.linkedin.com/in/bayupw/>)
 [![Gmail Badge](https://img.shields.io/badge/-bayupw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<bayupw@gmail.com>)](mailto:<bayupw@gmail.com>)
 
