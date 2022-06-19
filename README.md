@@ -1,4 +1,4 @@
-### Kia Ora! Hello 👋, I'm Bayu and thanks for visiting my GitHub.
+### Kia Ora! Hello 👋, I'm Bayu and thanks for stopping by!
 I work at [Aviatrix](https://aviatrix.com/) as a Senior Technical Marketing Engineer based in Auckland, New Zealand.
 I collaborate and influence product management, product marketing, engineering, and field team. [Aviatrix Edge](https://docs.aviatrix.com/HowTos/secure_edge_faq.html) and [Aviatrix for China Clouds](https://docs.aviatrix.com/HowTos/aviatrix_china_overview.html) are some of the features I'm currently focusing on.
 - 🔭 I’m currently working on Terraform modules on Aviatrix use cases
