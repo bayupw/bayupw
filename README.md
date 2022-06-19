@@ -19,3 +19,4 @@ I collaborate and influence product management, product marketing, engineering, 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bayupw&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayupw&hide=TeX&layout=compact)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbayupw&countColor=%230e71eb)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbayupw)
