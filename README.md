@@ -12,6 +12,8 @@ Hi 👋 - I'm Bayu and I work at [Aviatrix](https://aviatrix.com/) as a Senior T
 ## ⚡ Technologies:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bayupw&count_private=true&show_icons=true&include_all_commits=true)
