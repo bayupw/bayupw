@@ -1,7 +1,7 @@
 ### Kia Ora! Hello <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" width="20" align="center"/>, I'm Bayu and thanks for stopping by!
 I work at <a href="https://aviatrix.com/"><img src="https://docs.aviatrix.com/_static/aviatrix_logo_final_reverse.png" alt="Aviatrix" width="120" align="center"/></a> as a Senior Technical Marketing Engineer based in Auckland, New Zealand.
 I collaborate and influence product management, product marketing, engineering, and field team. 
-- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" width="20" align="center"/> I’m currently working on [Aviatrix Edge](https://docs.aviatrix.com/HowTos/secure_edge_faq.html) and [Aviatrix for China Clouds](https://docs.aviatrix.com/HowTos/aviatrix_china_overview.html) are some of the features
+- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" width="20" align="center"/> I’m currently working on [Aviatrix Edge](https://docs.aviatrix.com/HowTos/secure_edge_faq.html) and [Aviatrix for China Clouds](https://docs.aviatrix.com/HowTos/aviatrix_china_overview.html).
 - <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/nerd-face.gif" width="20" align="center"/> I’m currently learning AWS Advanced Networking Specialty and all things cloud networking
 - <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/question-mark.gif" width="20" align="center"/> Ask me about anything on Cloud Networking and/or Aviatrix
 
