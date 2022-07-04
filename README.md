@@ -1,5 +1,5 @@
 ### Kia Ora! Hello <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" width="20" align="center"/>, I'm Bayu and thanks for stopping by!
-I work at <a href="https://aviatrix.com/"><img src="https://docs.aviatrix.com/_static/aviatrix_logo_final_reverse.png" alt="Aviatrix" width="150" align="center"/></a> as a Senior Technical Marketing Engineer based in Auckland, New Zealand.
+I work at <a href="https://aviatrix.com/"><img src="https://docs.aviatrix.com/_static/aviatrix_logo_final_reverse.png" alt="Aviatrix" width="100" align="center"/></a> as a Senior Technical Marketing Engineer based in Auckland, New Zealand.
 I collaborate and influence product management, product marketing, engineering, and field team. [Aviatrix Edge](https://docs.aviatrix.com/HowTos/secure_edge_faq.html) and [Aviatrix for China Clouds](https://docs.aviatrix.com/HowTos/aviatrix_china_overview.html) are some of the features I'm currently focusing on.
 - 🔭 I’m currently working on Terraform modules on Aviatrix use cases
 - 🌱 I’m currently learning AWS Advanced Networking Specialty and all things cloud networking
