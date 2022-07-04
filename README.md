@@ -7,7 +7,7 @@ I collaborate and influence product management, product marketing, engineering, 
 
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="32" align="left"/>&nbsp <b>My Blogs</b></h2>
 
-I write [blogs](https://bayupw.cloud/) occasionally, below are my recent posts <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>.
+I write [blogs](https://bayupw.cloud/) occasionally, below are my recent posts <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-down.gif" width="20" align="center"/>
 - [How to Solve Overlapping IP Addresses in AWS](https://bayupw.cloud/posts/2022/20220703-how-to-solve-overlapping-ip-in-aws/)
 - [The Need for A Cloud Network Blueprint](https://bayupw.cloud/posts/2022/20220630-the-need-for-a-cloud-networking-blueprint/)
 - [Cloud Networking Learning Resources](https://bayupw.cloud/posts/2022/20220620-cloud-networking-learning-resources/)
