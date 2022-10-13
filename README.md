@@ -1,5 +1,5 @@
 ### Kia Ora! Hello <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" width="20" align="center"/>, I'm Bayu and thanks for stopping by!
-I work at <a href="https://aviatrix.com/"><img src="https://docs.aviatrix.com/_static/aviatrix_logo_final_reverse.png" alt="Aviatrix" width="120" align="center"/></a> as a Senior Technical Marketing Engineer based in Auckland, New Zealand.
+I work [@Aviatrix](https://github.com/aviatrixsystems) <a href="https://aviatrix.com/"><img src="https://docs.aviatrix.com/_static/aviatrix_logo_final_reverse.png" alt="Aviatrix" width="120" align="center"/></a> as a Senior Technical Marketing Engineer based in Auckland, New Zealand.
 I collaborate and influence product management, product marketing, engineering, and field team. 
 Formerly: [@VMware](https://github.com/vmware) [@Cisco](https://github.com/cisco)
 
