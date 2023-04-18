@@ -24,7 +24,4 @@ I write [blog posts](https://bayupw.cloud/) occasionally, below are my recent po
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayupw&hide=TeX&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bayupw&count_private=true&show_icons=true&include_all_commits=true)
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbayupw&countColor=%230e71eb)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbayupw)
