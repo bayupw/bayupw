@@ -1,11 +1,6 @@
 ### Kia Ora! Hello <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" width="20" align="center"/>, I'm Bayu and thanks for stopping by!
-I work [@Aviatrix](https://github.com/aviatrixsystems) <a href="https://aviatrix.com/"><img src="https://docs.aviatrix.com/_static/aviatrix_logo_final_reverse.png" alt="Aviatrix" width="120" align="center"/></a> as a Senior Technical Marketing Engineer based in Auckland, New Zealand.
-I collaborate and influence product management, product marketing, engineering, and field team. 
-Formerly: [@VMware](https://github.com/vmware) [@Cisco](https://github.com/cisco)
-
-- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" width="20" align="center"/> My area of focus in Aviatrix are [Aviatrix Edge](https://docs.aviatrix.com/HowTos/edge-faq.html) and [Aviatrix for China Clouds](https://docs.aviatrix.com/HowTos/aviatrix_china_overview.html)
-- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/nerd-face.gif" width="20" align="center"/> I’m currently learning AWS Advanced Networking Specialty and all things cloud networking
-- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/question-mark.gif" width="20" align="center"/> Ask me about anything on Cloud Networking and/or Aviatrix
+I'm a Cloud & Network Consultant based in Auckland, New Zealand.
+Formerly: [@Aviatrix](https://github.com/AviatrixSystems) [@VMware](https://github.com/vmware) [@Cisco](https://github.com/cisco)
 
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="32" align="left"/>&nbsp <b>Blog</b> @ bayupw.cloud</h2>
 
