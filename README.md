@@ -16,7 +16,7 @@ I write [blog posts](https://bayupw.cloud/) occasionally, below are my recent po
 [![Linkedin Badge](https://img.shields.io/badge/-Bayu%20Wibowo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://nz.linkedin.com/in/bayupw/>)](<https://nz.linkedin.com/in/bayupw/>) 
 [![Gmail Badge](https://img.shields.io/badge/-bayupw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<bayupw@gmail.com>)](mailto:<bayupw@gmail.com>)
 
-[coffee]: https://www.buymeacoffee.com/bayupw "Buy me a coffee"
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bayupw)
 
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/mechanical-arm.gif" width="32" align="left"/>&nbsp <b>Technologies I've been working with recently</b></h2>
 
