@@ -1,5 +1,5 @@
 ### Kia Ora! Hello <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" width="20" align="center"/>, I'm Bayu and thanks for stopping by!
-I'm a Cloud Architect @ HSO based in Auckland, New Zealand.
+I'm a Cloud Architect @ [@HSO](https://github.com/hso-nn) based in Auckland, New Zealand.
 Formerly: [@Aviatrix](https://github.com/AviatrixSystems) [@VMware](https://github.com/vmware) [@Cisco](https://github.com/cisco)
 
 <h2 style = font-size: "50px" align="left"><img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/memo.gif" width="32" align="left"/>&nbsp <b>Blog</b> @ bayupw.cloud</h2>
